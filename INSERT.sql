@@ -1,0 +1,1 @@
+INSERT INTO acceso (usuario) VALUES ('Pepe');
