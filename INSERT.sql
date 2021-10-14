@@ -1,1 +1,1 @@
-INSERT INTO acceso (usuario) VALUES ('Pepe');
+INSERT INTO USUARIO1 (usuario) VALUES ('Pepe');
