@@ -22,3 +22,4 @@ update table   CURSO3
 update table  EDIFICIO4
  SET   NOMBRE LIKE DEPARTAMENTO INFORMATICA ,
  SET DESCRIPCION LIKE EDIFICIO INFORMATICA;
+ <-- pues eso, cambios y tal --> 
