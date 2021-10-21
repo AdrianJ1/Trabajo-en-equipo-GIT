@@ -1,6 +1,4 @@
-DROP TABLE Nombre;
-DROP TABLE Apellidos;
-DROP TABLE Edad;
-DROP TABLE Direccion;
-DROP TABLE Nº de hermanos;
-DROP TABLE Correo electronico del alumno;
+DROP TABLE USUARIO1;
+DROP TABLE AULA2;
+DROP TABLE CURSO3;
+DROP TABLE EDIFICIO4;
