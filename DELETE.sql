@@ -2,4 +2,4 @@ DROP TABLE USUARIO1;
 DROP TABLE AULA2;
 DROP TABLE CURSO3;
 DROP TABLE EDIFICIO4;
-va a crear conflicto
+<--!va a crear conflicto -->
